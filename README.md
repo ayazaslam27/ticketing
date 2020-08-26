@@ -1,10 +1,13 @@
-# ticketing
-A microservices app that uses React and Next JS to present content to users. 
+# Ticketing App that lets authenticated users create, book and purchase tickets.
 
-Each service is created using Node and Express. Data for each service is held in  Mongo database. 
+# The project demonstrate architecture for large scale applications
 
-Async, event-based communication between services (NATS Streaming Server)
+A microservices app that uses **React.js** and **Next.js** to present content to users. 
 
-The entire app is deployed in Docker containers executed in a Kubernetes cluster. 
+Each service is created using **Node.js** and **Express.js**. Data for each service is held in  **Mongo** database. 
 
-Finally, almost all of the code is written with Typescript.
+Async, event-based communication between services (**NATS Streaming Server**)
+
+The entire app is deployed in **Docker** containers executed in a **Kubernetes** cluster. 
+
+Finally, almost all of the code is written with **Typescript**.
