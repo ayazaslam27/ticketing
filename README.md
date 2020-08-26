@@ -1,6 +1,6 @@
 # Ticketing App that lets authenticated users create, book and purchase tickets.
 
-# The project demonstrate architecture for large scale applications
+## The project demonstrate architecture for large scale applications
 
 A microservices app that uses **React.js** and **Next.js** to present content to users. 
 
