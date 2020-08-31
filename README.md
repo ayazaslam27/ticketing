@@ -6,7 +6,7 @@ A microservices app that uses **React.js** and **Next.js** to present content to
 
 Each service is created using **Node.js** and **Express.js**. Data for each service is held in  **Mongo** database. 
 
-Async, event-based communication between services (**NATS Streaming Server**)
+Async, event-based communication between services (**NATS NGINX Server**)
 
 The entire app is deployed in **Docker** containers executed in a **Kubernetes** cluster. 
 
